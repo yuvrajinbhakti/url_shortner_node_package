@@ -1,4 +1,4 @@
 // index.js
-import {getOriginalUrl} from "./urlShortner.js";
-import {shortenUrl} from "./urlShortner.js";
+import {getOriginalUrl} from "./simplestUrlShortner.js";
+import {shortenUrl} from "./simplestUrlShortner.js";
 export { shortenUrl, getOriginalUrl };
